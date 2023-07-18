@@ -41,5 +41,13 @@
 
   The `split()` method splits a string into an array of substrings.
 
+- substring(start,end)
+
+  The `substring()` method extracts characters from start to end (exclusive).
+
+- trim()
+
+  Method `trim()` removes whitespace from both sides of a string
+
 
   

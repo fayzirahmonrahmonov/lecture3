@@ -16,9 +16,14 @@
   
   'Single Quotes'- 'Hello'
   
-  ``Backticks``- ``Hello ${hi}``
+  `Backticks`- `Hello ${hi}`
 
   ![image](https://github.com/fayzirahmonrahmonov/lecture3/assets/133873684/9d69cf24-b359-46a8-9c09-bfc642b662b0)
+
+  - includes()
+ 
+    The `includes()`method returns true if a string contains a specified string.
+    Otherwise it returns false.
 
 
   

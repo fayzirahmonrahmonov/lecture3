@@ -64,4 +64,13 @@
 - shift()
 
   Javascript `shift()` is an inbuilt Array method that removes the first element from an array and returns the removed element.
+
+  # Array Callbacks
+
+  - map()
+  - forEach()
+  - find()
+  - reduce()
+  - filter()
+  - toSorted
   

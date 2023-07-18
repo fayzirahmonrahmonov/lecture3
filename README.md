@@ -20,10 +20,26 @@
 
   ![image](https://github.com/fayzirahmonrahmonov/lecture3/assets/133873684/9d69cf24-b359-46a8-9c09-bfc642b662b0)
 
-  - includes()
+ - includes()
  
-    The `includes()`method returns true if a string contains a specified string.
+    The `includes()` method returns true if a string contains a specified string.
     Otherwise it returns false.
+
+- indexOf()
+
+  The `indexOf()` method returns the position of the first occurrence of a value in a string.
+
+- charAt()
+
+  The `charAt()` method returns the character at a specified index (position) in a string.
+  
+- concat()
+
+  The `concat()` method joins two or more strings.
+
+- split()
+
+  The `split()` method splits a string into an array of substrings.
 
 
   

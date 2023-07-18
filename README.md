@@ -49,5 +49,19 @@
 
   Method `trim()` removes whitespace from both sides of a string
 
+# Array
 
+- pop()
+
+  The pop() method removes the last element from an array and returns that element.
+  This method changes the length of the array.
+
+- unshift()
+
+  The `unshift()` method adds one or more elements to the beginning of an array and
+  returns the new length of the array.
+
+- shift()
+
+  Javascript `shift()` is an inbuilt Array method that removes the first element from an array and returns the removed element.
   

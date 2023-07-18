@@ -67,10 +67,10 @@
 
   # Array Callbacks
 
-  - map()
-  - forEach()
-  - find()
-  - reduce()
-  - filter()
-  - toSorted
+- map()
+- forEach()
+- find()
+- reduce()
+- filter()
+- toSorted
   
